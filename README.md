@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Bruno
 
-<!--
-**Chimal014/Chimal014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy estudiante de la **Licenciatura en Ciencias de la Informática** en UPIICSA - IPN.  
+💻 Me apasiona el **desarrollo web**, especialmente crear interfaces atractivas, accesibles y funcionales e indagar en el mundo de la tecnología.  
+🚀 Actualmente estoy profundizando en **Strapi**, **Netlify**, **JavaScript**, **HTML5** y **CSS3**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 En constante aprendizaje
+- Inteligencia artificial aplicada a proyectos web
+
+---
+
+## 🛠 Tecnologías que uso
+- Frontend: HTML5, CSS3, JavaScript, React
+- Backend: Strapi
+- Bases de datos: MySQL
+- Otras herramientas: Git, GitHub, Figma, Netlify, Strapi
+
+---
+
+## ✏️ Proyectos destacados
+- 🌐 Sistema de Gestión de Citas y Punto de Venta para barberías
+- 📊 Formularios web conectados a Google Sheets con visualización de datos en tiempo real usando Chart.js
+
+---
+
+## 📫 Contacto
+- ✉️ [Correo electrónico](bruno_lizandro@outlook.com)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Siempre abierto a colaborar en nuevos proyectos o ideas interesantes.
